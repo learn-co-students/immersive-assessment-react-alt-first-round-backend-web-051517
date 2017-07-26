@@ -1,4 +1,4 @@
-##React Assessment First Round Repeat Backend
+## React Assessment First Round Repeat Backend
 
 This is the Rails backend for the React Assessment First Round Repeat. To ensure accurate testing of your front end code, you need to run this API on your local machine.
 
